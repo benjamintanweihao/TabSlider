@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TabSlider.iml" filepath="$PROJECT_DIR$/TabSlider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TabSlider/TabSlider-TabSlider.iml" filepath="$PROJECT_DIR$/TabSlider/TabSlider-TabSlider.iml" />
+    </modules>
+  </component>
+</project>
+
